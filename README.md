@@ -18,6 +18,8 @@ pkg install cowsay
 
 pkg install git
 
+git clone https://github.com/SLphoenix24/E-Banner.git
+
 cd E-Banner
 
 bash E-Banner.sh
